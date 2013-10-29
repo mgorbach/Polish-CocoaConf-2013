@@ -1,4 +1,4 @@
-Polish-CocoaConf-2013
+CocoaConf Boston 2013 Presentation: Spit and Polish
 =====================
 
 This is my presentation on "The Last 10%" from CocoaConf Boston 2013. Don't forget to look through the presenter notes, since they contain much of the actual presentation content.
